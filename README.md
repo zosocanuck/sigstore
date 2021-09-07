@@ -1,5 +1,7 @@
 # sigstore framework
 
+Updated to support PKCS#11
+
 > :warning: Not ready for use yet!
 
 sigstore/sigstore is a generic library that is utilized by various other
