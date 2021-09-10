@@ -1,4 +1,4 @@
-module github.com/zosocanuck/sigstore
+module github.com/sigstore/sigstore
 
 go 1.16
 
@@ -30,3 +30,5 @@ require (
 	gopkg.in/square/go-jose.v2 v2.6.0
 	github.com/mitchellh/go-homedir v1.1.0
 )
+
+replace github.com/sigstore/sigstore => github.com/zosocanuck/sigstore
