@@ -1,4 +1,4 @@
-module github.com/zosocanuck/sigstore
+module github.com/sigstore/sigstore
 
 go 1.16
 
