@@ -29,4 +29,5 @@ require (
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/square/go-jose.v2 v2.6.0
 	github.com/mitchellh/go-homedir v1.1.0
+	github.com/zosocanuck/crypto11 v1.2.4
 )
